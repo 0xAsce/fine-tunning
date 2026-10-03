@@ -72,7 +72,7 @@ The model is evaluated using:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bert-mrpc.git
+git clone https://github.com/0xAsce/bert-mrpc.git
 cd bert-mrpc
 ```
 
